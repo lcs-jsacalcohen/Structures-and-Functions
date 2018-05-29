@@ -1,10 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='rendered' executeOnSourceChanges='false'>
-    <pages>
-        <page name='Introduction'/>
-        <page name='No Return Values'/>
-        <page name='Return Values'/>
-        <page name='Structures'/>
-        <page name='Exercise'/>
-    </pages>
-</playground>
+<playground version='6.0' target-platform='macos' display-mode='rendered' executeOnSourceChanges='false'/>
